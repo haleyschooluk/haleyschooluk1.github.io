@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "derby-webgl-f.data.unityweb",
+"asmCodeUrl": "derby-webgl-f.asm.code.unityweb",
+"asmMemoryUrl": "derby-webgl-f.asm.memory.unityweb",
+"asmFrameworkUrl": "derby-webgl-f.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
